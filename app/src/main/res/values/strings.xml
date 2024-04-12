@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DialogFragmentApp</string>
+    <string name="dialog_fire_missiles">Fire Missiles</string>
+    <string name="fire">Fire</string>
+    <string name="cancel">Cancel</string>
+    <string name="signin">SignIn</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>
